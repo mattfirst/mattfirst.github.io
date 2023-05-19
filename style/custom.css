@@ -1,0 +1,5 @@
+.work-form__num::before {
+    content: attr(data-before);
+    width: 150px;
+}
+
